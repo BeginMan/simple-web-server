@@ -16,7 +16,11 @@ Point browser at `http://localhost:9000/some/path`.
 
 Example:
 
-http://localhost:9000/no_index_subdir
+    http://localhost:9000/no_index_subdir
+    http://localhost:9000/no_index_subdir/test_cgi.py
+    http://localhost:9000/no_index_subdir/im.png
+    http://localhost:9000/subdir
+    http://localhost:9000
 
-http://localhost:9000
+
 
